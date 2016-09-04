@@ -1,0 +1,9 @@
+.settings/
+.vscode/
+.vs/
+_site/
+build/
+node_modules/
+logs/
+*.log
+.DS_Store
